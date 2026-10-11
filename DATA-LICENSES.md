@@ -1,0 +1,16 @@
+# Data licences
+
+Original Python code and documentation use the MIT licence. Upstream data remain subject to these separate terms:
+
+- Copernicus Sentinel data: https://dataspace.copernicus.eu/terms-and-conditions. Contains modified Copernicus Sentinel data (2026).
+- USGS Landsat: unrestricted use, with credit and citation. https://www.usgs.gov/landsat-missions/landsat-collection-2-surface-temperature
+- ESA WorldCover 2021 v200: Creative Commons Attribution 4.0. https://creativecommons.org/licenses/by/4.0/ . DOI https://doi.org/10.5281/zenodo.7254220
+- OpenStreetMap contributed data: Open Data Commons Open Database License 1.0. https://opendatacommons.org/licenses/odbl/1-0/ . © OpenStreetMap contributors, https://www.openstreetmap.org/copyright
+
+The filtered OSM snapshot and adapted OSM reference geometry are made available under ODbL 1.0. The combined planning tables/maps retain OSM attribution and are provided with their underlying adapted OSM database in this package. Preserve attribution and review ODbL requirements when redistributing or combining databases.
+
+## Actual Dynamic World experimental exports
+
+GOOGLE/DYNAMICWORLD/V1 is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Required attribution: "This dataset is produced for the Dynamic World Project by Google in partnership with National Geographic Society and the World Resources Institute."
+
+Contains modified Copernicus Sentinel data (2021, 2026); see the [Sentinel Data Legal Notice](https://sentinels.copernicus.eu/web/sentinel/terms-and-conditions). Dataset/source information: https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1 . The separate experimental exports were executed by Nasser in Code Editor; all eight exact originals are locally checksum-verified, including two annual TIFFs reconstructed from verified supplied parts on 8 October 2026. Scientific validation remains pending; assembly and numerical integrity do not establish classification accuracy. The supplied external review is preserved with provenance. These exports do not replace the existing thermal analysis and licences. Paired RGB diagnostic contexts contain modified Copernicus Sentinel data (2021, 2026). The two unique supplied 2021 RGB/QA60 TIFFs and original provenance CSV are preserved under data/dynamic_world/reference/2026-10-08/ with recorded SHA256. Original 2026 crops use preserved source metadata. The 18-target/72-view preliminary review is complete, but these source-linked views are not field photographs or independent ground truth; no overall classification accuracy is estimated.

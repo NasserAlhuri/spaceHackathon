@@ -1,0 +1,649 @@
+{
+  "schema_version": 4,
+  "recorded_date": "2026-10-06",
+  "scope": "Separate local review; does not change satellite measurements or ranking.",
+  "study_boundary_points": [
+    [
+      36.565,
+      10566.534
+    ],
+    [
+      11079.17,
+      10524.842
+    ],
+    [
+      11035.004,
+      4.342
+    ],
+    [
+      1.153,
+      46.145
+    ],
+    [
+      36.565,
+      10566.534
+    ]
+  ],
+  "cells": [
+    {
+      "cell_id": "V04-23",
+      "name": "Bus-stop road near Al Khor Hospital",
+      "map_label": "Bus-stop road",
+      "centre": {
+        "latitude": 25.717995,
+        "longitude": 51.515221
+      },
+      "label_offset": [
+        -2900,
+        -220
+      ],
+      "observation": "Abdulrahman reports roadside trees and a bus stop without a shelter, with a short sidewalk and limited continuous walking access. Nasser reports visiting the sites and confirms that the described physical situation is the same as in September 2026; exact visit dates were not supplied. Shade through the day and route safety remain unmeasured.",
+      "usage_pattern": "Bus-stop passenger use reported; numbers and use times unknown.",
+      "shade": "No shelter visible in the supplied view. Trees cast some shade; shade at waiting times is unknown.",
+      "walking_access": "Short local sidewalk reported; route continuity and safety require a site check.",
+      "planned_use": "Stop ownership, permissions and planned road works unknown.",
+      "next_check": "Locate the sign precisely; check waiting-time shade, passenger use, route continuity, ownership and shelter or access feasibility.",
+      "street_view": {
+        "url": "https://maps.app.goo.gl/gPEzxW3NFqErPWNP8",
+        "camera_latitude": 25.7175476,
+        "camera_longitude": 51.5145504,
+        "image_capture_month": "2023-03",
+        "coordinate_type": "camera position; not surveyed stop coordinate",
+        "inside_cell": true
+      },
+      "observer": "Abdulrahman Almohannadi (local report); Nasser Alhuri (site-visit confirmation)",
+      "recorded_date": "2026-10-06",
+      "observation_date": null,
+      "evidence_type": "Team-member local report and firsthand site-visit confirmation",
+      "field_status": "Abdulrahman visit on 2026-10-08 confirmed by Nasser; supplied media collection complete; project review and detailed assessment pending",
+      "site_confirmation": {
+        "observer": "Nasser Alhuri",
+        "recorded_date": "2026-10-06",
+        "visit_date": null,
+        "statement": "Nasser reports visiting the sites and confirms that the described physical situation is the same as in September 2026. Exact visit dates were not supplied.",
+        "scope": "Physical site description; not measured temperature, NDVI, all-day shade, passenger counts, ownership or expansion plans."
+      },
+      "photos": [
+        {
+          "src": "assets/site-photos/V04-23-01.jpeg",
+          "original_filename": "V04-23-01.jpeg",
+          "caption": "Bus-stop sign beside a paved sidewalk, roadway and dense roadside trees. No shelter is visible in this view; shade at other times is not established.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V04-23",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "a1bd817f71f26ae70e79dc787cf0ec1a37e2488b41dda6829b561cc9ce608c1d",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V04-23-02.jpeg",
+          "original_filename": "V04-23-02.jpeg",
+          "caption": "Sidewalk ending beside a sandy roadside shoulder and a row of trees, with vehicles on and beside the road. Route continuity and safe access are not established.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V04-23",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "4a93ad64b3206b69b4e5f0936919eac04baeca7b26a2b57176a6e7bc88275c6e",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V04-23-03.jpeg",
+          "original_filename": "V04-23-03.jpeg",
+          "caption": "Portrait view along the paved sidewalk and sandy shoulder beside the road, with trees and vehicles. This view is not a user-count or safety measurement.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V04-23",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "f530cab85c6bf46b487fa7b7e7ef4ab77f4ca2b2c107987ee112303b412f4dbd",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V04-23-04.jpeg",
+          "original_filename": "V04-23-04.jpeg",
+          "caption": "Paved sidewalk approaching a bus-stop sign, with trees alongside the road. No shelter is visible in this frame; all-day waiting-area shade is unknown.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V04-23",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "b507d8de5210cd60b0f748d258f9b79e1fd45f284995f7d60d5eb00683833f9c",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V04-23-05.jpeg",
+          "original_filename": "V04-23-05.jpeg",
+          "caption": "Wider view of the sidewalk, road, bus-stop sign and roadside tree row. Coverage and use outside this view are unknown.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V04-23",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "8b7bf03d370d45c097b36c6302625f1b47db1148239417fe97234f3f077086d2",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        }
+      ],
+      "photo_status": "Received 5 photographs; Abdulrahman photographer and shared 2026-10-08 13:00\u201314:00 Qatar (UTC+3) window confirmed by Nasser, not EXIF; exact per-file time Unknown; this batch collection complete; project review pending",
+      "geometry_status": "Cell centre only; precise site or route geometry remains unverified",
+      "unknowns": [
+        "User counts and use times",
+        "Detailed shade across use times",
+        "Ownership, permissions, cost and feasibility"
+      ],
+      "visit_confirmation_status": "Confirmed by Nasser for the original reviewed sites; exact visit dates unspecified; Abdulrahman visited this photographed site on 2026-10-08, confirmed by Nasser",
+      "videos": [],
+      "media_visit_confirmation": {
+        "visitor": "Abdulrahman Almohannadi",
+        "visit_date": "2026-10-08",
+        "confirmed_by": "Nasser Alhuri",
+        "source": "Explicit user confirmation; not inferred from image contents or EXIF",
+        "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08",
+        "scope": "Visit and collection of this supplied media batch; no completed project review or detailed measurement implied"
+      },
+      "media_collection_status": "Complete for supplied media batch; confirmed by Nasser on 2026-10-08"
+    },
+    {
+      "cell_id": "V28-17",
+      "name": "Al Bayt Stadium parking",
+      "map_label": "Stadium parking",
+      "centre": {
+        "latitude": 25.653042,
+        "longitude": 51.497008
+      },
+      "label_offset": [
+        -600,
+        460
+      ],
+      "observation": "Abdulrahman identifies stadium parking, mainly busy on match days. This is a local report, not a measured attendance or exposure estimate. Nasser reports visiting the sites and confirms the described physical situation is the same as in September 2026; exact visit dates were not supplied. Attendance and exposure were not measured.",
+      "usage_pattern": "Event-dependent use reported; use outside match days unknown.",
+      "shade": "Current pedestrian shade unknown.",
+      "walking_access": "Pedestrian routes, crossings and waiting areas unverified.",
+      "planned_use": "Ownership and event-management plans unverified.",
+      "next_check": "Check event timing, pedestrian routes, existing shade and ordinary-day use before assessing event-specific protection.",
+      "observer": "Abdulrahman Almohannadi (local report); Nasser Alhuri (site-visit confirmation)",
+      "recorded_date": "2026-10-06",
+      "observation_date": null,
+      "evidence_type": "Team-member local report and firsthand site-visit confirmation",
+      "field_status": "Abdulrahman visit on 2026-10-08 confirmed by Nasser; supplied media collection complete; project review and detailed assessment pending",
+      "site_confirmation": {
+        "observer": "Nasser Alhuri",
+        "recorded_date": "2026-10-06",
+        "visit_date": null,
+        "statement": "Nasser reports visiting the sites and confirms that the described physical situation is the same as in September 2026. Exact visit dates were not supplied.",
+        "scope": "Physical site description; not measured temperature, NDVI, all-day shade, passenger counts, ownership or expansion plans."
+      },
+      "photos": [
+        {
+          "src": "assets/site-photos/V28-17-01.jpeg",
+          "original_filename": "V28-17-01.jpeg",
+          "caption": "Marked paved path lined with trees and lights, with a fence alongside. Some tree shadows are visible in this view; shade through the day is unmeasured.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V28-17",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "a73daf0092bb05293097d06f26c0771f8ac3b4ae8bd29a11d2ce6c8de3d89bbe",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V28-17-02.jpeg",
+          "original_filename": "V28-17-02.jpeg",
+          "caption": "Tree and fence beside the path, with a road, vehicles and palms beyond. This view does not establish parking use or pedestrian counts.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V28-17",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "bd54a348ceb3542e1dd09deafe4136e658f4a81396bef4b8bd248319fb80c57f",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V28-17-03.jpeg",
+          "original_filename": "V28-17-03.jpeg",
+          "caption": "Curved marked path with trees, lights and a fence beside the stadium area. Precise camera position and route connections are unknown.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V28-17",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "17539382657b1494047f34931e6134bbe15784d0abe11e8d6c9af221bb129e71",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V28-17-04.jpeg",
+          "original_filename": "V28-17-04.jpeg",
+          "caption": "Al Bayt Stadium visible beyond paved parking and sandy ground, with foreground trees. Event-day use and shade coverage are not established.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V28-17",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "4dca2c243cd92bd052f8e67c04f31dc35e53eec7626fd57afa4a036d347a0d54",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        }
+      ],
+      "photo_status": "Received 4 photographs; Abdulrahman photographer and shared 2026-10-08 13:00\u201314:00 Qatar (UTC+3) window confirmed by Nasser, not EXIF; exact per-file time Unknown; this batch collection complete; project review pending",
+      "geometry_status": "Cell centre only; precise site or route geometry remains unverified",
+      "unknowns": [
+        "User counts and use times",
+        "Detailed shade across use times",
+        "Ownership, permissions, cost and feasibility"
+      ],
+      "visit_confirmation_status": "Confirmed by Nasser for the original reviewed sites; exact visit dates unspecified; Abdulrahman visited this photographed site on 2026-10-08, confirmed by Nasser",
+      "videos": [],
+      "media_visit_confirmation": {
+        "visitor": "Abdulrahman Almohannadi",
+        "visit_date": "2026-10-08",
+        "confirmed_by": "Nasser Alhuri",
+        "source": "Explicit user confirmation; not inferred from image contents or EXIF",
+        "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08",
+        "scope": "Visit and collection of this supplied media batch; no completed project review or detailed measurement implied"
+      },
+      "media_collection_status": "Complete for supplied media batch; confirmed by Nasser on 2026-10-08"
+    },
+    {
+      "cell_id": "V04-24",
+      "name": "Hospital-associated empty land",
+      "map_label": "Hospital land",
+      "centre": {
+        "latitude": 25.717984,
+        "longitude": 51.518211
+      },
+      "label_offset": [
+        -200,
+        680
+      ],
+      "observation": "Abdulrahman identifies empty land associated with Al Khor Hospital. He thinks it may be reserved for expansion; ownership and expansion plans are unconfirmed. Nasser reports visiting the sites and confirms the described physical situation is the same as in September 2026; exact visit dates were not supplied. This does not confirm ownership or expansion plans.",
+      "usage_pattern": "Present pedestrian use unknown; possible future development unconfirmed.",
+      "shade": "Current shade and vegetation unverified.",
+      "walking_access": "Access and public use unknown.",
+      "planned_use": "Possible hospital expansion is a team-member hypothesis, not a confirmed plan.",
+      "next_check": "Confirm land ownership and planned use before assessing any intervention. Do not assume empty land has low future priority.",
+      "observer": "Abdulrahman Almohannadi (local report); Nasser Alhuri (site-visit confirmation)",
+      "recorded_date": "2026-10-06",
+      "observation_date": null,
+      "evidence_type": "Team-member local report and firsthand site-visit confirmation",
+      "field_status": "site visit confirmed; detailed assessment pending",
+      "site_confirmation": {
+        "observer": "Nasser Alhuri",
+        "recorded_date": "2026-10-06",
+        "visit_date": null,
+        "statement": "Nasser reports visiting the sites and confirms that the described physical situation is the same as in September 2026. Exact visit dates were not supplied.",
+        "scope": "Physical site description; not measured temperature, NDVI, all-day shade, passenger counts, ownership or expansion plans."
+      },
+      "photos": [],
+      "photo_status": "Evidence pending; photographs and videos not received",
+      "geometry_status": "Cell centre only; precise site or route geometry remains unverified",
+      "unknowns": [
+        "User counts and use times",
+        "Detailed shade across use times",
+        "Ownership, permissions, cost and feasibility"
+      ],
+      "visit_confirmation_status": "Confirmed by Nasser for the original reviewed sites; exact visit dates unspecified",
+      "videos": []
+    },
+    {
+      "cell_id": "V18-26",
+      "name": "Reported jogging route",
+      "map_label": "Jogging route",
+      "centre": {
+        "latitude": 25.680037445347594,
+        "longitude": 51.52402590272311
+      },
+      "label_offset": [
+        -2100,
+        -240
+      ],
+      "observation": "Abdulrahman identifies a jogging route, with a restaurant, laundry and supermarket across the road. He reports sand and mangroves on the right side of the path and says nearby mangroves do not shade the path. Two photographs and one video were subsequently received with V18-26 filenames. Nasser subsequently confirms Abdulrahman visited and captured all supplied route media on 8 October 2026 within the shared 13:00\u201314:00 Qatar (UTC+3) window. Exact per-file time, viewing bearing, full route geometry and business coordinates remain Unknown or unverified. These are qualitative reports, not measured use or all-day shade.",
+      "usage_pattern": "Jogging use reported; counts, duration and use times unknown.",
+      "shade": "Abdulrahman reports no shade on the path from nearby mangroves; photographs have a Nasser-confirmed shared capture window; detailed shade measurements pending.",
+      "walking_access": "Route geometry, rest points, crossings and access safety unverified.",
+      "planned_use": "Ownership, permissions, cost and feasibility unknown. Preserve mangrove habitat when assessing options.",
+      "next_check": "Record the route and viewing direction, record precise camera locations, identify use times and rest points, and assess path shade without affecting mangroves.",
+      "observer": "Abdulrahman Almohannadi (local report supplied in Nasser's brief)",
+      "recorded_date": "2026-10-07",
+      "observation_date": null,
+      "evidence_type": "Attributed local report plus Nasser-confirmed Abdulrahman visit and shared capture window; not EXIF",
+      "field_status": "Abdulrahman visit on 2026-10-08 confirmed by Nasser; supplied media collection complete; project review and detailed assessment pending",
+      "visit_confirmation_status": "Abdulrahman visit on 2026-10-08 confirmed by Nasser; original Nasser site-visit confirmation is not claimed for this added location",
+      "geometry_status": "Supplied reference point verified inside V18-26; it does not define the full route",
+      "reference_point": {
+        "latitude": 25.681077,
+        "longitude": 51.524704,
+        "url": "https://maps.app.goo.gl/gCZmV515FacSB4VK9",
+        "source": "User-supplied brief; shortened link not independently resolved",
+        "coordinate_status": "Point-in-cell geometry checked; route extent unknown"
+      },
+      "photos": [
+        {
+          "src": "assets/site-photos/V18-26-01.jpeg",
+          "original_filename": "V18-26-01.jpeg",
+          "caption": "Marked paved path beside a road and sandy open ground, with buildings, boats and vegetation in the background. Exact route extent and plant species are unverified.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V18-26",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "727e8d1713622991d65511d2f77cc085638302434b5cba8f36d0a8da299404e6",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        },
+        {
+          "src": "assets/site-photos/V18-26-02.jpeg",
+          "original_filename": "V18-26-02.jpeg",
+          "caption": "View along the marked path with sandy ground on one side and a road and buildings on the other. Palms are visible farther along; all-day path shade is unmeasured.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V18-26",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "66c73a4319ec8636bee9c1f967bb32f54bbb7ecb128a9a83b188adf23f976e51",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        }
+      ],
+      "photo_status": "Received 2 photographs and 1 video; Abdulrahman photographer and shared 2026-10-08 13:00\u201314:00 Qatar (UTC+3) window confirmed by Nasser, not EXIF; exact per-file time Unknown; this batch collection complete; project review pending",
+      "unknowns": [
+        "route geometry",
+        "restaurant/laundry/supermarket coordinates",
+        "current mangrove geometry",
+        "Exact per-file capture time, viewing bearing and precise camera coordinates",
+        "use counts/times",
+        "detailed shade",
+        "ownership/access/permissions/cost/feasibility"
+      ],
+      "satellite_summary_note": "47.47\u00b0C mean of date-level cell medians; mean green share 0.0386%; 72% retained coverage; rank 275/373, scenario range 203\u2013336. Low greenery does not establish the locations of nearby trees or why the signal is low.",
+      "videos": [
+        {
+          "src": "assets/site-photos/V18-26-03.mp4",
+          "original_filename": "V18-26-03.mp4",
+          "caption": "Short pan from a marked path across sandy ground, scattered vegetation and boats, returning to the path and road. This does not verify mangrove boundaries, use counts or an exact per-file capture time.",
+          "caption_author": "Descriptive visual inspection, 2026-10-08; descriptive view only",
+          "observer": "Abdulrahman Almohannadi",
+          "captured_at": "2026-10-08, 13:00\u201314:00 Qatar (UTC+3); shared batch window",
+          "location": "Unknown",
+          "viewing_direction": "Unknown",
+          "site_association": "V18-26",
+          "association_basis": "Exact supplied filename prefix; not surveyed camera coordinates",
+          "received_at": "2026-10-08",
+          "source": "Nasser-supplied site media archive",
+          "sha256": "c918dd7f638d6b400ecc7f5df44ef3137fd5ede5c03c18415c6ebdcc296dc197",
+          "capture_window": {
+            "date": "2026-10-08",
+            "start": "13:00",
+            "end": "14:00",
+            "timezone": "Asia/Qatar",
+            "utc_offset": "+03:00",
+            "start_iso8601": "2026-10-08T13:00:00+03:00",
+            "end_iso8601": "2026-10-08T14:00:00+03:00",
+            "precision": "Shared batch window; not an exact timestamp for any individual file"
+          },
+          "exact_capture_time": "Unknown",
+          "metadata_source": "Nasser Alhuri user confirmation; not EXIF",
+          "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08"
+        }
+      ],
+      "media_visit_confirmation": {
+        "visitor": "Abdulrahman Almohannadi",
+        "visit_date": "2026-10-08",
+        "confirmed_by": "Nasser Alhuri",
+        "source": "Explicit user confirmation; not inferred from image contents or EXIF",
+        "capture_confirmation_id": "nasser-site-media-confirmation-2026-10-08",
+        "scope": "Visit and collection of this supplied media batch; no completed project review or detailed measurement implied"
+      },
+      "media_collection_status": "Complete for supplied media batch; confirmed by Nasser on 2026-10-08"
+    },
+    {
+      "cell_id": "V24-07",
+      "name": "Reported unused land near a bus hub",
+      "map_label": "Reported unused land",
+      "centre": {
+        "latitude": 25.663976451045087,
+        "longitude": 51.46716185958338
+      },
+      "label_offset": [
+        100,
+        500
+      ],
+      "observation": "Abdulrahman identifies unused empty land next to a bus hub and reports no pedestrians walking or waiting there. The observation date/time, exact location within the cell and photographs are pending. A qualitative report at an unspecified time does not establish absence of use at other times. Satellite rank remains unchanged.",
+      "usage_pattern": "No pedestrians reported in the supplied observation; counts and use at other times unknown.",
+      "shade": "Current shade and detailed assessment unknown.",
+      "walking_access": "Exact site geometry, access and bus-hub pedestrian routes unverified.",
+      "planned_use": "Ownership, permissions and planned use unknown.",
+      "next_check": "Obtain dated location evidence and observe use at relevant bus-hub times before assessing suitability.",
+      "observer": "Abdulrahman Almohannadi (local report supplied in Nasser's brief)",
+      "recorded_date": "2026-10-07",
+      "observation_date": null,
+      "evidence_type": "User-supplied attributed local report; dated evidence pending",
+      "field_status": "reported; detailed assessment and photographs pending",
+      "visit_confirmation_status": "Separate visit confirmation for this added location is not recorded",
+      "geometry_status": "Cell-level reference only; exact empty-land and bus-hub positions pending",
+      "photos": [],
+      "photo_status": "Evidence pending; photographs and videos not received",
+      "unknowns": [
+        "Exact site and bus-hub coordinates",
+        "Observation date/time and photos",
+        "Use counts and use at other times",
+        "Shade, ownership, permissions and feasibility"
+      ],
+      "videos": []
+    }
+  ],
+  "presentation_examples": [
+    "V04-23",
+    "V28-17",
+    "V18-26"
+  ],
+  "satellite_top3_unchanged": [
+    "V04-23",
+    "V28-17",
+    "V04-24"
+  ],
+  "media_receipt_date": "2026-10-08",
+  "media_scope": "Photographer, 8 October visit and shared Qatar capture window confirmed by Nasser for all 12 supplied files. Exact per-file time, viewing bearing and precise camera coordinates Unknown. This batch collection is complete; project review pending. No measured use, shade, historical classification validation or ranking update.",
+  "media_capture_confirmation": {
+    "id": "nasser-site-media-confirmation-2026-10-08",
+    "confirmed_by": "Nasser Alhuri",
+    "confirmation_source": "Explicit user confirmation in project conversation; not EXIF or extracted file metadata",
+    "confirmation_recorded_date": "2026-10-08",
+    "photographer": "Abdulrahman Almohannadi",
+    "visit_date": "2026-10-08",
+    "photographed_sites": [
+      "V04-23",
+      "V28-17",
+      "V18-26"
+    ],
+    "photographs": 11,
+    "videos": 1,
+    "capture_window": {
+      "date": "2026-10-08",
+      "start": "13:00",
+      "end": "14:00",
+      "timezone": "Asia/Qatar",
+      "utc_offset": "+03:00",
+      "start_iso8601": "2026-10-08T13:00:00+03:00",
+      "end_iso8601": "2026-10-08T14:00:00+03:00",
+      "precision": "Shared batch window; not an exact timestamp for any individual file"
+    },
+    "exact_per_file_capture_time": "Unknown",
+    "batch_collection_status": "Complete, confirmed by Nasser",
+    "project_review_status": "Pending; no completed project review confirmed",
+    "scope": "The 11 received photographs and one video; no new confirmation inferred for unphotographed V04-24/V24-07 or for earlier report dates. No measurements, geometry, historical class validity or ranking change."
+  }
+}
