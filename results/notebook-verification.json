@@ -1,0 +1,14 @@
+{
+  "status": "passed_normal_jupyter_kernel",
+  "runtime_seconds": 7.2,
+  "executed_code_cells": 5,
+  "errors": 0,
+  "sample_hashes_verified": 35,
+  "python_version": "3.12.14",
+  "system": "Linux",
+  "environment": "GitHub-hosted runner",
+  "separate_execution_environment": true,
+  "review_note": "Kernel execution verifies reproducibility, not independent scientific accuracy.",
+  "source_commit": "5e7c540afdd9954363f73b9cde588d237291c388",
+  "workflow_run_url": "Repository URL to be supplied separately"
+}
