@@ -1,0 +1,59 @@
+name: Notebook reproducibility
+
+on:
+  push:
+    branches: [main, pilot/al-khor]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notebook:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      MPLBACKEND: Agg
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Remove generated outputs for a clean run
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import shutil
+          for directory in ('results', 'app/assets'):
+              path = Path(directory)
+              if path.exists():
+                  shutil.rmtree(path)
+          Path('results').mkdir()
+          PY
+      - name: Execute notebook through a normal Jupyter kernel
+        run: python src/check_notebook.py
+      - name: Verify regenerated numerical results and original tables
+        run: |
+          python src/verify.py
+          python src/verify_reproduction.py
+      - name: Audit local evidence and render review figures
+        run: |
+          python src/audit_local_greenery.py
+          python src/render_review_figures.py
+          node src/test_map_review.mjs
+      - name: Retain executed notebook and verification evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: verified-notebook
+          retention-days: 14
+          if-no-files-found: error
+          path: |
+            pilot.ipynb
+            results/notebook-verification.json
+            results/*.csv
+            results/*.json
+            results/*.geojson
+            results/*.png
