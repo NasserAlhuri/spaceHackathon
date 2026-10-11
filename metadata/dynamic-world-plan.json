@@ -75,7 +75,7 @@
   "manual_review_status": "paired preliminary visual review complete: 18 targets/72 dated 2021/2026 views; independent scientific review pending; primary failed coverage and Unknown unchanged",
   "integration_with_priority": "None; original WorldCover eligibility, NDVI, temperature, rankings and seven CSVs are preserved",
   "licence": "CC BY 4.0; actual exports retain required Dynamic World attribution and modified Copernicus Sentinel data (2021, 2026) notice",
-  "team_model": "None; Dynamic World is an upstream land-cover product; SamGeo and additional models deferred",
+  "team_model": "None; Dynamic World is an upstream AI product; SamGeo and additional models deferred",
   "execution_history": "Nasser authorized Code Editor execution/export succeeded after fallback correction; managed runtime API remains blocked",
   "technical_reassembly_status": "six parts/two exact annual originals match supplied REASSEMBLY and original export hashes; all eight raw files verified"
 }
