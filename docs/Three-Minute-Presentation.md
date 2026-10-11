@@ -1,10 +1,10 @@
 # Optional three-minute overview — compact script
 
-Team Al Zubarah — UrbanHeat, Al Khor. This is an optional compact overview, not the reported live-pitch limit. Primary preparation is [up to ten minutes plus separate five-minute Q&A](Live-Pitch-Up-to-Ten-Minutes.md); the prepared live target is 8:20 including a short demo. Use the revised twelve-slide PDF or PowerPoint. Compact target: 180 seconds. The spoken sections contain **394 whitespace-separated words**. At approximately 135 words per minute, speech takes about 175 seconds, leaving about 5 seconds for short transitions. These are planning estimates; actual timing must come from Mohammed's rehearsal, which remains pending. Headings and timing cues are not spoken. Avoid live map interaction within the three-minute slot; keep the offline preview ready for questions.
+Team Al Zubarah — UrbanHeat AI, Al Khor. This is an optional compact overview, not the reported live-pitch limit. Primary preparation is [up to ten minutes plus separate five-minute Q&A](Live-Pitch-Up-to-Ten-Minutes.md); the prepared live target is 8:20 including a short demo. Use the revised twelve-slide PDF or PowerPoint. Compact target: 180 seconds. The spoken sections contain **394 whitespace-separated words**. At approximately 135 words per minute, speech takes about 175 seconds, leaving about 5 seconds for short transitions. These are planning estimates; actual timing must come from Mohammed's rehearsal, which remains pending. Headings and timing cues are not spoken. Avoid live map interaction within the three-minute slot; keep the offline preview ready for questions.
 
 ## Slide 1 — 0:00–0:11
 
-We are Team Al Zubarah from Qatar. UrbanHeat uses satellite evidence and local observations to help investigate heat-protection opportunities in Al Khor.
+We are Team Al Zubarah from Qatar. UrbanHeat AI uses satellite evidence and local observations to help investigate heat-protection opportunities in Al Khor.
 
 ## Slide 2 — 0:11–0:25
 
@@ -20,7 +20,7 @@ We combine Sentinel-2 greenery, Landsat surface temperature, historical WorldCov
 
 ## Slide 5 — 1:02–1:20
 
-WorldCover supplies external land-cover data for heat screening; Dynamic World supplies it for a separate historical experiment. Our quality checks and ranking are rule based. We trained no new model. We screen common inland support and test thirteen settings.
+WorldCover supplies external AI land-cover data for heat screening; Dynamic World supplies it for a separate historical experiment. Our quality checks and ranking are rule based. We trained no new model. We screen common inland support and test thirteen settings.
 
 ## Slide 6 — 1:20–1:35
 
