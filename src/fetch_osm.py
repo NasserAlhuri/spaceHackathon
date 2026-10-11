@@ -10,7 +10,7 @@ for y in range(4):
   b=[w+(e-w)*x/4,s+(n-s)*y/4,w+(e-w)*(x+1)/4,s+(n-s)*(y+1)/4]
   queries.append('https://api.openstreetmap.org/api/0.6/map?bbox='+','.join(f'{v:.6f}' for v in b))
 def fetch(url):
- req=urllib.request.Request(url,headers={'User-Agent':'UrbanHeat-research-pilot/1.0'})
+ req=urllib.request.Request(url,headers={'User-Agent':'UrbanHeatAI-research-pilot/1.0'})
  with urllib.request.urlopen(req,timeout=90) as r:return ET.fromstring(r.read())
 parts=list(ThreadPoolExecutor(max_workers=3).map(fetch,queries))
 nodes={};ways={}
@@ -20,7 +20,7 @@ for part in parts:
   tags={t.attrib['k']:t.attrib['v'] for t in el.findall('tag')}
   if tags.get('building') not in [None,'no'] or tags.get('natural') in ['water','coastline'] or tags.get('landuse')=='grass':ways[el.attrib['id']]=el
 needed={r.attrib['ref'] for el in ways.values() for r in el.findall('nd')}
-out=ET.Element('osm',version='0.6',generator='UrbanHeat filtered public reference')
+out=ET.Element('osm',version='0.6',generator='UrbanHeat AI filtered public reference')
 for key in sorted(needed,key=int):
  if key not in nodes:continue
  el=nodes[key];ET.SubElement(out,'node',{k:el.attrib[k] for k in ['id','lat','lon']})

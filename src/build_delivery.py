@@ -140,7 +140,7 @@ def build(root, output, source_commit):
         report['historical_final_content_revision'] = json.loads(final_content.read_text())
         with readme.open('a') as handle:
             handle.write('\nThe revised twelve-slide PDF/PPTX, 388-word spoken script, judge answers and '
-                         'checklist include the three final land-cover/NDVI/review-status corrections. Earlier '
+                         'checklist include the three final AI/NDVI/review-status corrections. Earlier '
                          'presentation/script evidence: results/final-content-revision-verification.json '
                          'and docs/Final-Content-Revision.md inside the ZIP. The gallery revision '
                          'uses results/site-media-capture-verification-2026-10-08.json. Older '
