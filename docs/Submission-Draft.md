@@ -6,7 +6,7 @@ Status: prepared for review, not submitted. Current live material is up-to-ten-m
 
 **Summary:** A proposed municipal planning team can use this explainable open-data PoC to choose where to inspect first, then check use, shade, access, ownership and feasibility. No actual adoption, customer, paid pilot, revenue, cooling or measured benefit is established. The PoC combines quality-screened Landsat surface temperature, Sentinel-2 green-pixel indicators, contributed buildings and historical land cover to shortlist 373 urban cells in an analyst-defined Al Khor study window. Presentation examples illustrate bus-stop shade/access, event-dependent stadium use and a reported jogging route. They are team-selected cases, not the three highest ranks; hospital land remains in the complete results. The review includes five attributed reports, eleven photographs and one video. Nasser confirms Abdulrahman captured this batch on 8 October 2026 in a shared 13:00–14:00 Qatar (UTC+3) window, not EXIF; individual times remain Unknown. This batch collection is complete; project review and remaining-site media are pending. The map keeps satellite ranking separate from team observations and unknown human use. We use externally produced land-cover data: WorldCover in the heat-screening workflow and Dynamic World in a separate historical experiment. Our quality checks and ranking are rule based. We trained no new model; Dynamic World does not feed the original score. The notebook is reproducible; field validation remains pending.
 
-**Repository:** Repository URL to be supplied separately
+**Repository:** https://github.com/NasserAlhuri/spaceHackathon
 
 **Presentation:** UrbanHeat-AlKhor-Pitch.pdf
 
