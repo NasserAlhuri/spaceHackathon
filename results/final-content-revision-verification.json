@@ -4,7 +4,7 @@
   "baseline_source": "865c7f2d8465e77b6451dbf16dda1149b17237d7",
   "supplied_report": "docs/Final-Content-External-Review-2026-10-08.md",
   "corrections_applied": [
-    "External land-cover data: WorldCover in heat screening, Dynamic World separate historical experiment; QA/ranking rule based; no new model trained.",
+    "External AI: WorldCover in heat screening, Dynamic World separate historical experiment; QA/ranking rule based; no new model trained.",
     "NDVI >=0.30 at 24/25 grass and 0/30 building references; 0/30 is not building-detection accuracy; separate WorldCover class-50 agreement 25/30.",
     "Preliminary review: 18 sites/four dates complete; independent science remains pending; current checklist splits completed retrieval/review from pending validation."
   ],

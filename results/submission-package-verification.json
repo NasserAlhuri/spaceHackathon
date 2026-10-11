@@ -8,18 +8,14 @@
   "map_data_and_application_logic": "byte-for-byte unchanged",
   "standalone_embedded_media_verified": 24,
   "presentation_slides": 12,
-  "unchanged_presentation_slides": 9,
+  "unchanged_presentation_slides": 11,
   "results_table": "original slide XML unchanged",
-  "unchanged_pdf_page_renders": 9,
+  "unchanged_pdf_page_renders": 11,
   "editorial_text_scan_matches": 0,
   "map_control_checks": "Node VM and DOM adapter passed; visual browser rerun unavailable",
   "historical_interface_captures_omitted": [
-    "results/browser-review/mobile-focused.png",
-    "results/browser-review/mobile-comparison.png",
-    "results/browser-review/mobile.png",
-    "results/browser-review/desktop.png",
-    "results/dynamic-world-browser-review/mobile-final.png",
-    "results/dynamic-world-browser-review/desktop-final.png"
+    "results/dynamic-world-browser-review/desktop-final.png",
+    "results/dynamic-world-browser-review/mobile-final.png"
   ],
   "scientific_validation": "independent scientific validation remains pending",
   "git_history_included": false
