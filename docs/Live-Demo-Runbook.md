@@ -5,7 +5,7 @@ Prepared 9 October 2026. **Budget: 75 seconds within live-pitch slide 8**, a tea
 ## Prepare before the pitch
 
 1. Extract the current full ZIP. Open `preview/UrbanHeat-AlKhor-Preview.html` with Chrome or Edge. It embeds CSS, JavaScript, JSON, original map images and received site media. Opening the multi-file `app/index.html` alone is not the portable demonstration. See Preview-Guide.md for local-server/browser-policy alternatives.
-2. Open the twelve-slide presentation and `docs/Demo-Fallback-Screenshots.pdf` locally. Keep slide 6's three original photographs and slide 8's unchanged result table ready as further fallback. The one-page fallback PDF contains the original gallery photograph and capture provenance. Use slides 6 and 8 for the case photographs and results table.
+2. Open the twelve-slide presentation and `docs/Demo-Fallback-Screenshots.pdf` locally. Keep slide 6's three original photographs and slide 8's unchanged result table ready as further fallback. The fallback PDF contains existing real map/gallery views from this same source, not synthetic evidence.
 3. Practise switching between deck and browser on the actual presentation computer, with external networking unavailable. Record a timed main run and fallback run only after they actually occur.
 4. Avoid external Street View/source links during the pitch. The field video is optional context, not necessary for this short demonstration. Do not start a new analysis, export or upload.
 
@@ -23,7 +23,7 @@ Use the **Demo speech** in Live-Pitch-Up-to-Ten-Minutes.md while performing thes
 
 ## If interaction is blocked
 
-Stop troubleshooting after one brief attempt. Switch to the local fallback PDF or slides 6/8 and say: "The live interaction is blocked here. These are received field photographs and our results table; I will explain the same decision path."
+Stop troubleshooting after one brief attempt. Switch to the local fallback PDF or slides 6/8 and say: "The live interaction is blocked here. These are captured views of our existing map and the received field photographs; I will explain the same decision path."
 
 Point to the cell value, date/layer selection, photo and Unknown fields. A screenshot does not prove a control worked during the pitch. Preserve the original claims and return within the planned segment. Record the actual limitation afterward; do not label a blocked demo successful.
 

@@ -1,6 +1,6 @@
 # UrbanHeat — Orientation Requirements and Delivery Review
 Date: 8 October 2026
-Project: UrbanHeat: Al Khor area study — Team Al Zubarah, Qatar
+Project: UrbanHeat AI: Al Khor area study — Team Al Zubarah, Qatar
 Reviewed repository snapshot: 9fa71a86c9d44b4303c36eac9c1fc2f4b91e7596
 
 ## Main decision
@@ -36,13 +36,13 @@ The live account's detailed submission guide was not inspected in this review. U
 | Live pitch: up to ten minutes, then five minutes Q&A | First session lines 16–19; second session line 33 | Stated shortlisted-pitch timing | Replace three-minute-only rehearsal instructions with a new live-pitch script and demo cues. Keep the compact script separately labelled. |
 | Fixed number of slides | No fixed count stated; first session line 17 allows longer submitted decks/annexes | Not established | Twelve slides are a team design choice. Retain them while adding photos and improving narrative. |
 | One presenter | First session lines 18–19; second session line 33 | Explicitly allowed | Mohammed may present for the team without a stated score penalty. Teammates may help during Q&A. No rehearsal is complete until confirmed. |
-| Q&A contributes to score | First session line 17 | Stated judging practice | Prepare short, accurate answers about land-cover methods, temperature, zero detected greenery, selection, uncertainty and next validation. |
+| Q&A contributes to score | First session line 17 | Stated judging practice | Prepare short, accurate answers about AI, temperature, zero detected greenery, selection, uncertainty and next validation. |
 | Pitch only after shortlist | First session line 16; second session line 33 | Stated process | Top 40 invited; sessions describe pitch slots on 14–16 October. Do not record a confirmed invitation or slot before receipt. Monitor email/platform. |
 | Attendance at booked pitch | Second session line 33 | Required if invited | At least one member must attend; stated no-show rule prevents advancement. |
 | Two-to-three-minute screen recording | First session line 22 | Recommended, explicitly not mandatory | Optional demo video of the application. The received six-second field video is site evidence, not this screen recording. |
 | Docker/container | First session line 22 | Recommended, not mandatory | Do not add Docker merely to satisfy a nonexistent minimum. |
 | Licence file | First session line 22 calls it recommended | Recommended / data obligations remain | Already present. Preserve actual source credits and licences. |
-| New/deep-learning architecture | First session lines 5 and 12; second session lines 33, 41 and 83 | Not required | Simple explainable baselines are endorsed. Clearly disclose external datasets and deterministic ranking. No new training is needed. |
+| New/deep-learning architecture | First session lines 5 and 12; second session lines 33, 41 and 83 | Not required | Simple explainable baselines are endorsed. Clearly disclose external AI and deterministic ranking. No new training is needed. |
 | Hyperspectral data | First session lines 6 and 12; second session line 33; official public website | Bonus/recommended, not mandatory | Do not add a new dataset solely for points immediately before delivery. Existing open satellite workflow is acceptable in principle. |
 | Full product, hosted app or actual customer adoption | Second session line 33 | Beyond minimum; potential bonus | Working portable UI is useful evidence. Do not claim real planner adoption, paid pilots or measured benefit. |
 | Biosecurity examples in special session | Third section lines 93–94 | Illustrative guidance | Apply problem → user → decision → data thinking. Do not switch UrbanHeat to disease prediction or claim biological risk outputs. |
@@ -71,7 +71,7 @@ This is editorial guidance, not a mandated agenda.
 | --- | ---: |
 | Problem and proposed planning user | 55 |
 | Three local cases with photos | 90 |
-| Data, land-cover methods, QA and ranking | 100 |
+| Data, actual AI, QA and ranking | 100 |
 | Short offline demonstration and outputs | 90 |
 | Validation, uncertainty and bounded historical experiment | 80 |
 | Proposed value, pilot plan, team and close | 85 |
@@ -95,7 +95,7 @@ Read current branch heads and preserve newer work before editing.
 - Retain the existing twelve-slide design. Add representative photos to the three example slides/panels and revise matching PDF/PPTX without clipping or unreadable text. Update photo/review wording that is now stale.
 - Prepare an English live-pitch script targeting eight-to-nine minutes including a short demo, within the organizer's stated up-to-ten-minute pitch. Keep the existing compact script as an explicitly labelled optional short overview/demo reference.
 - Update judge questions, delivery guide and team rehearsal instructions for ten minutes plus five minutes Q&A. Emphasize concrete end user, proposed value and a realistic future pilot; do not invent actual adoption, revenue, partnerships or cooling.
-- Keep the historical experiment secondary and fully bounded. Preserve external-land-cover disclosure, 24/25 and 0/30 NDVI diagnostic meaning, 18 sites/four dates versus independent review, Unknown and original analysis/ranks.
+- Keep the historical experiment secondary and fully bounded. Preserve external-AI disclosure, 24/25 and 0/30 NDVI diagnostic meaning, 18 sites/four dates versus independent review, Unknown and original analysis/ranks.
 - Preserve all original inputs, seven CSV outputs, notebook/model assumptions, raw exports/reference imagery, original media and both backup refs. Do not run new analysis, train a model, obtain new satellite imagery, or add Docker/hosting merely for this handoff.
 - Render and inspect the changed presentation, verify corresponding PDF/PPTX text, links and package identity, rebuild the ZIP and checkpoint. Existing app/preview checks apply only when their exact bytes remain unchanged.
 - Recheck live account submission requirements before the final form step. Use guarded non-force publication within the already authorized project scope.

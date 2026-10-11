@@ -1,6 +1,6 @@
 # Orientation requirements and current preparation checklist
 
-Updated **9 October 2026 (Qatar)**. Team Al Zubarah — UrbanHeat, Al Khor. This applies Nasser's requested presentation/documentation revisions from [the supplied review](Orientation-Requirements-External-Review-2026-10-08.md). That review examined commit 9fa71a86; the actual pre-edit source is newer commit **8abc67fd2027d6480aac93dbeba690c57620ee0e**, which already contains the three field photographs. Their original bytes and current provenance are preserved.
+Updated **9 October 2026 (Qatar)**. Team Al Zubarah — UrbanHeat AI, Al Khor. This applies Nasser's requested presentation/documentation revisions from [the supplied review](Orientation-Requirements-External-Review-2026-10-08.md). That review examined commit 9fa71a86; the actual pre-edit source is newer commit **8abc67fd2027d6480aac93dbeba690c57620ee0e**, which already contains the three field photographs. Their original bytes and current provenance are preserved.
 
 ## Source boundaries
 
@@ -25,7 +25,7 @@ Nasser directly authorized applying the identified presentation/documentation ch
 | Two-to-three-minute application screen recording | Recommended, optional | Not produced or claimed. Received six-second field video is separate site evidence. |
 | Docker/container | Recommended, optional | No container added merely for this handoff. |
 | Licence file and source obligations | Recommended project file; source obligations preserved | Existing code/data credits and licences retained. |
-| New trained model or deep-learning architecture | Not required | External dataset disclosures retained; no new training/model. |
+| New trained model or deep-learning architecture | Not required | External AI disclosures retained; no new training/model. |
 | Hyperspectral source | Bonus/recommended, not mandatory | No new dataset added. |
 | Hosted product or real customer adoption | Beyond minimum, possible bonus | Existing offline working UI retained. No adoption, customer, revenue or measured benefit invented. |
 | Numerical judging weights / selection probability | Not established | No score or probability invented. |
@@ -36,7 +36,7 @@ Nasser directly authorized applying the identified presentation/documentation ch
 - [x] Make the proposed planning user, inspection decision path and value hypothesis concrete on slide 2; explain that October photographs are later context for September thermal snapshots on slides 3/4.
 - [x] Describe a modest future pilot with stakeholder feedback, measured field checks and evaluation of usefulness/feasibility on slide 10. No partnership, adoption, paid pilot, time-saving, cooling or health benefit is established.
 - [x] Prepare a separate English live-pitch script, a five-minute question rehearsal and short offline demonstration with real screenshot fallback. Keep the three-minute text explicitly optional.
-- [x] Update delivery/team/checklist/deadline/draft documentation and current project state. Keep Dynamic World secondary, external-land-cover disclosure, NDVI diagnostic meaning, 18 sites/four dates versus independent validation, failed coverage and Unknown explicit.
+- [x] Update delivery/team/checklist/deadline/draft documentation and current project state. Keep Dynamic World secondary, external-AI disclosure, NDVI diagnostic meaning, 18 sites/four dates versus independent validation, failed coverage and Unknown explicit.
 - [x] Preserve original data, seven analytical tables, ranking, notebook assumptions, eight raw exports/reference imagery, media and both backups. No additional analysis, model, satellite retrieval, Docker or hosting work.
 
 Current artifact checks: results/orientation-revision-verification-2026-10-09.json. PDF changes are targeted text replacements within the original design. Native desktop PowerPoint/LibreOffice remain unavailable: structural PPTX checks and PDF visual inspection do not certify rendering on the presentation computer. Earlier artifact reports remain historical; current app/preview evidence still applies because their bytes remain unchanged. The separate limited offline capture prepares fallback views and is not a new full browser regression or teammate rehearsal.

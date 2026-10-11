@@ -1,4 +1,4 @@
-# Final package content review: UrbanHeat
+# Final package content review: UrbanHeat AI
 
 Reviewed 8 October 2026. Source: Nasser's uploaded GitHub snapshot the supplied project snapshot. This is a read-only content/package review. No project files, GitHub branches, analysis outputs or submission state were changed by this review.
 
@@ -18,13 +18,13 @@ The snapshot is intact and the presentation is usable, subject to three wording/
 - The spoken script contains approximately 390 words (389 whitespace-separated tokens across the 12 spoken sections). Three minutes requires roughly 130 words per minute before allowing for slide transitions. Actual timing must come from Mohammed's rehearsal.
 - Sizes fit the package's recorded PDF <=50 MB / optional ZIP <=200 MB limits. These are retained organizer limits, not newly verified live-form requirements. Recheck the actual submission form before attaching the final revision.
 
-## Required correction 1: explicit and current dataset explanation
+## Required correction 1: explicit and current AI explanation
 
-The main Which external land-cover datasets are used? answer in docs/Judge-Questions.md only names WorldCover. Slide 5 and its spoken section also only mention WorldCover. Later pages describe Dynamic World, but its dataset role is not explained clearly enough for a judge hearing the short pitch.
+The main Where is the AI? answer in docs/Judge-Questions.md only names WorldCover. Slide 5 and its spoken section also only mention WorldCover. Later pages describe Dynamic World, but its AI role is not explained clearly enough for a judge hearing the short pitch.
 
 Use consistent wording in the judge answer, slide 5/appropriate existing slide, spoken script and submission summary, adapted to space:
 
-> We use externally produced land-cover data: WorldCover in the heat-screening workflow and Dynamic World in a separate historical experiment. Our quality checks and ranking are rule based. We trained no new model.
+> We use externally produced AI land-cover data: WorldCover in the heat-screening workflow and Dynamic World in a separate historical experiment. Our quality checks and ranking are rule based. We trained no new model.
 
 Retain the experimental qualification: Dynamic World was retrieved, processed and checked, but primary matched coverage is only 30.94%, below the unchanged 50% gate. Do not imply that its outputs feed the original score or establish accepted urban expansion. Do not claim a newly trained team model, individual-tree/shade detection, health prediction or causal cooling.
 

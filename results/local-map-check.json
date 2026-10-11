@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T06:47:54.857Z",
+  "checked_at": "2026-10-11T11:35:09.954Z",
   "status": "passed",
   "method": "Node VM with DOM adapter; control/state checks, not a full browser visual or touch-device test",
   "checks": [

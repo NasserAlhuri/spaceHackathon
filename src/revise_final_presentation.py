@@ -18,7 +18,7 @@ from lxml import etree
 
 REPLACEMENTS = [
     (5, 'Deterministic processing; upstream WorldCover uses ML. Our own segmentation model is future work.',
-     'External land cover: WorldCover for heat screening; Dynamic World in a separate experiment. QA/ranking are rule based. No new model trained.'),
+     'External AI land cover: WorldCover for heat screening; Dynamic World in a separate experiment. QA/ranking are rule based. No new model trained.'),
     (9, 'Optical rule checks: 24/25 grass points pass; 0/30 building points pass. All 30 coastal points are excluded from thermal support.',
      'NDVI >=0.30 at 24/25 grass references and 0/30 building references. All 30 coastal references are excluded from retained thermal support.'),
     (10, 'Completed: reproducible satellite screening, sensitivity checks and local-review examples for site assessment.',

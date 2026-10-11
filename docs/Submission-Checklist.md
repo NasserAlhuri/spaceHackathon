@@ -1,6 +1,6 @@
 # Al Khor submission checklist
 
-Updated 9 October 2026. Revised review package only; nothing submitted. Current orientation/content/design evidence is [Orientation-Requirements-and-Handoff.md](Orientation-Requirements-and-Handoff.md) and results/orientation-revision-verification-2026-10-09.json; earlier land-cover/NDVI/photo changes are retained. Earlier verification records remain historical.
+Updated 9 October 2026. Revised review package only; nothing submitted. Current orientation/content/design evidence is [Orientation-Requirements-and-Handoff.md](Orientation-Requirements-and-Handoff.md) and results/orientation-revision-verification-2026-10-09.json; earlier AI/NDVI/photo changes are retained. Earlier verification records remain historical.
 
 ## Prepared
 
@@ -53,7 +53,7 @@ Presentation PDF: at most 50 MB. Optional ZIP: at most 200 MB. The portable map 
 - [x] Receive and verify both unique dated 2021 RGB/QA60 references and original provenance; byte-identical duplicate ignored. See metadata/dynamic-world-reference-manifest.json and results/dynamic-world-reference-verification.json.
 - [x] preliminary review paired review of 18 target locations across four dates is complete (72 dated views, not 72 independent sites). All 18 rows and ambiguities are recorded in metadata/dynamic-world-manual-review.csv. This is not independent exact-class validation or member confirmation.
 - [ ] Complete independent scientific validation. Eight broad clear patterns are not eight confirmed correct classes or 8/18 accuracy; the three potential disagreement flags overlap ambiguous cases and are not confirmed model errors. Primary 0.60 common coverage stays 30.94%, below the unchanged 50% gate; Unknown/excluded common support stays 69.06%. General change claims remain blocked; 2023 is deferred.
-- [x] Correct external-land-cover explanation, NDVI-reference wording and preliminary-versus-independent-review status across the twelve-slide PDF/PPTX, script, judge answers and draft. Current evidence: results/final-content-revision-verification.json.
+- [x] Correct external-AI explanation, NDVI-reference wording and preliminary-versus-independent-review status across the twelve-slide PDF/PPTX, script, judge answers and draft. Current evidence: results/final-content-revision-verification.json.
 - [x] Prepare a separate English live pitch up to ten minutes, with an 8:20 preparation target and 75-second offline demo, plus separate five-minute questions. Preserve the 394-word compact overview as optional. No actual shortlist/slot is confirmed.
 - [x] Prepare two real offline map/gallery screenshot fallback pages from exact unchanged preview bytes; classify the limited capture separately from retained full browser tests/member practice.
 - [x] Explicit proposed municipal planning user, inspection/ownership/feasibility decision path and future pilot/value hypothesis; no actual adoption, paid pilot, revenue or measured benefit claimed.

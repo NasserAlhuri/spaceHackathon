@@ -30,6 +30,10 @@ The pre-repair browser record is [before.json](../results/browser-review/before.
 
 ## Evidence
 
+- [Desktop rendering](../results/browser-review/desktop.png)
+- [Mobile rendering](../results/browser-review/mobile.png)
+- [Mobile selected-site focus](../results/browser-review/mobile-focused.png)
+- [Mobile comparison](../results/browser-review/mobile-comparison.png)
 
 The actual CSV downloads remain in the local test-output directories. Their checksums are in the machine-readable report; they are identical between desktop and mobile. They are generated review exports, not replacements for any of the seven original result tables.
 
@@ -48,5 +52,3 @@ python src/test_map_browser.py --chromium /usr/bin/chromium --output /tmp/urbanh
 ```
 
 The runner writes screenshots, downloaded review CSVs and its JSON report only to the requested output directory. A restricted execution sandbox may require permission for localhost sockets and Chromium launch. A failed launch or failed check must be reported as failed, not a browser pass.
-
-Historical interface screenshots are omitted from this submission copy. The original check records are retained as historical evidence; use the standalone preview to inspect the current interface.

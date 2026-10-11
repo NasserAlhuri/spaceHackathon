@@ -8,7 +8,7 @@ Mohammed may present the prepared material; teammates may help during questions.
 
 **Say**
 
-We are Team Al Zubarah from Qatar. UrbanHeat combines satellite evidence and local observations to help investigate heat-protection opportunities in Al Khor. We built an inspectable screening prototype, with a working map, reproducible notebook and documented limitations.
+We are Team Al Zubarah from Qatar. UrbanHeat AI combines satellite evidence and local observations to help investigate heat-protection opportunities in Al Khor. We built an inspectable screening prototype, with a working map, reproducible notebook and documented limitations.
 
 **Cue:** Introduce the title; move directly to the planning user. Do not claim an official citywide boundary or a completed municipal deployment.
 
@@ -40,7 +40,7 @@ We combine Sentinel-2 green-pixel indicators, Landsat surface temperature, histo
 
 **Say**
 
-The workflow starts with packaged satellite inputs and mapped context, screens cloud, coast and shared spatial support, then computes cell indicators. Our relative ranking combines heat, low green signal and mapped buildings, with eligibility rules and thirteen sensitivity settings. These choices are not a validated optimum. External land-cover inputs differ: WorldCover supports heat screening; Dynamic World is a separate historical experiment. Quality checks and ranking are rule based. We trained no new model, and Dynamic World does not feed the original score.
+The workflow starts with packaged satellite inputs and mapped context, screens cloud, coast and shared spatial support, then computes cell indicators. Our relative ranking combines heat, low green signal and mapped buildings, with eligibility rules and thirteen sensitivity settings. These choices are not a validated optimum. External AI land-cover inputs differ: WorldCover supports heat screening; Dynamic World is a separate historical experiment. Quality checks and ranking are rule based. We trained no new model, and Dynamic World does not feed the original score.
 
 **Cue:** Follow the editable arrows. Keep export logistics and additional models out of the pitch.
 
